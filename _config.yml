@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 明不知昔
-subtitle: 明不知昔's Blog
+title: v@LEI
+subtitle: LEI's Blog
 description: 面朝大海，春暖花开
-author: 明不知昔
+author: LEI
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -95,7 +95,7 @@ keywords: "Jekyll, NexT, 明不知昔, galens"
 rss:
 
 # Specify the date when the site was setup
-since: 2019
+since: 2020
 
 # icon between year and author @Footer
 authoricon: heart
@@ -222,8 +222,8 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  GitHub: https://github.com/galensgan
-  简书: https://www.jianshu.com/u/08760e791f9e
+  GitHub: https://github.com/LEI-1994
+  简书: https://www.jianshu.com/u/LEI
 
 
 # Social Links Icons
